@@ -3,19 +3,20 @@
 
 College student who's ability to program is slowly catching up with his interest in programming.
 
-Using this repository as a pseudo blog (not completely sold on that idea) and to practice Git from the command line.
+Using this repository as a pseudo blog for the time being.
 
-I like to do things the right way and continually strive to implement all applicable standards and conventions.
-I am always receptive to constructive criticism and never fall into the trap of thinking that I know all there is
-to know about a particular subject. Hopefully I can contribute to projects I use or find interesting, even doing
-documentation for projects seems like a great way to get started.
+I try to learn the right way of doing things and always strive to know and implement best practices.
+I am always receptive to constructive criticism and never fall into the trap of thinking that I know more than I do
+(hopefully). I look forward to contributing to projects if possible, and am excited to get involved more with
+open-source projects.
 
-I am nowhere near the best or most efficient with these programs or tools but they are my preference (not only
-computer related) and in the spirit of my Git testing, pseudo-blog, repo here we go:
+I am nowhere near the best, most efficient, or knowledgeable with the following however in the spirit of my Git
+testing, pseudo-blog repo, here are my preferences.
 
-Linux (CLI in general)
-Vim
-Bash
-Radare2
-Pure espresso (I'll settle for just black coffee)
-Manual transmissions
+-Linux (CLI in general)
+-Vim
+-Bash
+-Radare2
+-Straight Espresso
+-Standard Transmissions
+-Hard truth
