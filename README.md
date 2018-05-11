@@ -13,10 +13,10 @@ open-source projects.
 I am nowhere near the best, most efficient, or knowledgeable with the following however in the spirit of my Git
 testing, pseudo-blog repo, here are my preferences.
 
--Linux (CLI in general)
--Vim
--Bash
--Radare2
--Straight Espresso
--Standard Transmissions
--Hard truth
+* Linux (CLI in general)
+* Vim
+* Bash
+* Radare2
+* Straight Espresso
+* Standard Transmissions
+* Hard truth
