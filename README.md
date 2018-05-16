@@ -16,7 +16,7 @@ testing, pseudo-blog repo, here are my preferences.
 * Linux (CLI in general)
 * Vim
 * Bash
+* Parrot OS
 * Radare2
 * Straight Espresso
 * Standard Transmissions
-* Hard truth
