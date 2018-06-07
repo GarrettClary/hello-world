@@ -13,12 +13,11 @@ open-source projects.
 I am nowhere near the best, most efficient, or knowledgeable with the following however in the spirit of my Git
 testing, pseudo-blog repo, here are my preferences/interest.
 
-* Linux (CLI in general)
+* Linux
 * Vim
 * Parrot OS
 * Python
 * Bash
 * C
 * Radare2
-* Straight Espresso
-* Standard Transmissions
+* Arduino
